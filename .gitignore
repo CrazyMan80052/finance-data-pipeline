@@ -256,3 +256,6 @@ terraform.rc
 # planout
 
 *.zip
+
+code/
+scripts/
